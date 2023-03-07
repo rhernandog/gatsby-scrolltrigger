@@ -3,8 +3,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `gatsby-scrolltrigger-issue`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: "gatsby-scrolltrigger-issue",
+    siteUrl: "https://www.yourdomain.tld",
   },
-  plugins: ["gatsby-plugin-postcss"]
+  plugins: ["gatsby-plugin-postcss"],
 };
